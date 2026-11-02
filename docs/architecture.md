@@ -32,9 +32,11 @@ The phone needs Bluetooth and internet access, and the companion app must be run
 
 ## Local records and cloud processing
 
-TonoCard uses cloud AI for processing. The product's data policy states that cloud data is deleted once processing ends; call records are not stored in the cloud. Key points and original audio from the AI-handled portion are saved locally. Recording stops when the owner takes over.
+TonoCard uses cloud AI for processing, and the owner can review records from the AI-handled portion locally. Recording stops when the owner takes over.
 
-Local record storage does not mean the AI runs entirely offline. See the current privacy policy linked from the app or official website for the applicable terms.
+For the Overseas Edition, the [privacy policy](https://privacy.tonocard.com/) explains that TonoCard's cloud temporarily retains call records for processing and delivery. After successful client retrieval, TonoCard deletes the corresponding data and copies from the cloud systems it manages; retrieved records remain on the client. Third-party processing and retention are governed separately by the policy. See sections 1.4, 2.2, and 4.1.
+
+Local record storage does not mean the AI runs entirely offline. Follow the current policy for your app's distribution edition; the Overseas Edition policy does not cover every distribution package.
 
 ## Compatibility
 

@@ -18,6 +18,7 @@ TonoCard 像蓝牙耳机一样接入手机通话，再通过 App 连接云端 AI
 | 产品类别 | 配合 AI 通话 App 使用的蓝牙手机电子配件 |
 | 官方网站 | [www.tonocard.com](https://www.tonocard.com/) |
 | iPhone 配套应用 | [App Store：TonoCard AI电话秘书卡](https://apps.apple.com/cn/app/tonocard-ai%E7%94%B5%E8%AF%9D%E7%A7%98%E4%B9%A6%E5%8D%A1/id6766748307) |
+| Android 配套应用 | [Google Play：TonoCard，发布者 Longshu AI](https://play.google.com/store/apps/details?id=com.longshu.tonocard) |
 | App 开发者 | 龙树(深圳)人工智能有限公司 / Longshu (Shenzhen) Artificial Intelligence Co., Ltd |
 
 ## 能做什么

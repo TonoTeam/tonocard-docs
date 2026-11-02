@@ -26,7 +26,7 @@ TonoCard answers calls and responds to the caller in real time. Recording and su
 
 ## Where are recordings and summaries stored?
 
-Key points and original audio from the AI-handled part of a call are stored locally. The product's policy is to delete cloud data after processing and not store call records in the cloud. TonoCard uses cloud AI, so it is not a fully offline system. Recording stops when you take over.
+You can review the AI-handled part locally. For the Overseas Edition, call records are temporarily retained in TonoCard's cloud for processing and delivery, then deleted from its cloud systems after successful client retrieval. Retrieved records remain on the client. Third-party processing and retention follow separate provisions in the [Overseas Edition privacy policy](https://privacy.tonocard.com/), sections 1.4, 2.2, and 4.1. Follow the policy applicable to your app's distribution edition. TonoCard uses cloud AI, so it is not a fully offline system. Recording stops when you take over.
 
 ## Can TonoCard answer calls in messaging apps?
 

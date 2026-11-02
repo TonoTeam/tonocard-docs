@@ -18,6 +18,7 @@ This repository contains public product documentation and a high-level architect
 | Product category | Bluetooth phone accessory with an AI call-handling app |
 | Official website | [www.tonocard.com](https://www.tonocard.com/) |
 | Companion iPhone app | [TonoCard AI电话秘书卡 on the App Store](https://apps.apple.com/cn/app/tonocard-ai%E7%94%B5%E8%AF%9D%E7%A7%98%E4%B9%A6%E5%8D%A1/id6766748307) |
+| Companion Android app | [TonoCard by Longshu AI on Google Play](https://play.google.com/store/apps/details?id=com.longshu.tonocard) |
 | App developer | 龙树(深圳)人工智能有限公司 / Longshu (Shenzhen) Artificial Intelligence Co., Ltd |
 
 ## What TonoCard does
